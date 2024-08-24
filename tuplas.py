@@ -43,4 +43,3 @@ lenguajes = ("javascript", "Java", "python", "go")
 print(lenguajes)
 del lenguajes
 print(lenguajes)
-
